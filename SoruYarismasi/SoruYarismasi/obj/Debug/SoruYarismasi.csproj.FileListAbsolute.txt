@@ -1,0 +1,22 @@
+C:\Users\basakaleyna\Desktop\Yeni klasör\SoruYarismasi\SoruYarismasi\obj\Debug\SoruYarismasi.csproj.AssemblyReference.cache
+C:\Users\basakaleyna\Desktop\Yeni klasör\SoruYarismasi\SoruYarismasi\obj\Debug\SoruYarismasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\basakaleyna\Desktop\Yeni klasör\SoruYarismasi\SoruYarismasi\obj\Debug\SoruYarismasi.Form1.resources
+C:\Users\basakaleyna\Desktop\Yeni klasör\SoruYarismasi\SoruYarismasi\obj\Debug\SoruYarismasi.Properties.Resources.resources
+C:\Users\basakaleyna\Desktop\Yeni klasör\SoruYarismasi\SoruYarismasi\obj\Debug\SoruYarismasi.csproj.GenerateResource.cache
+C:\Users\basakaleyna\Desktop\Yeni klasör\SoruYarismasi\SoruYarismasi\obj\Debug\SoruYarismasi.csproj.CoreCompileInputs.cache
+C:\Users\basakaleyna\Desktop\Yeni klasör\SoruYarismasi\SoruYarismasi\bin\Debug\SoruYarismasi.exe.config
+C:\Users\basakaleyna\Desktop\Yeni klasör\SoruYarismasi\SoruYarismasi\bin\Debug\SoruYarismasi.exe
+C:\Users\basakaleyna\Desktop\Yeni klasör\SoruYarismasi\SoruYarismasi\bin\Debug\SoruYarismasi.pdb
+C:\Users\basakaleyna\Desktop\Yeni klasör\SoruYarismasi\SoruYarismasi\obj\Debug\SoruYarismasi.exe
+C:\Users\basakaleyna\Desktop\Yeni klasör\SoruYarismasi\SoruYarismasi\obj\Debug\SoruYarismasi.pdb
+C:\Users\basakaleyna\Desktop\tasarım desenleri görsel programlama dersleri uygulamaları\SoruYarismasi\SoruYarismasi\bin\Debug\SoruYarismasi.exe.config
+C:\Users\basakaleyna\Desktop\tasarım desenleri görsel programlama dersleri uygulamaları\SoruYarismasi\SoruYarismasi\bin\Debug\SoruYarismasi.exe
+C:\Users\basakaleyna\Desktop\tasarım desenleri görsel programlama dersleri uygulamaları\SoruYarismasi\SoruYarismasi\bin\Debug\SoruYarismasi.pdb
+C:\Users\basakaleyna\Desktop\tasarım desenleri görsel programlama dersleri uygulamaları\SoruYarismasi\SoruYarismasi\obj\Debug\SoruYarismasi.csproj.AssemblyReference.cache
+C:\Users\basakaleyna\Desktop\tasarım desenleri görsel programlama dersleri uygulamaları\SoruYarismasi\SoruYarismasi\obj\Debug\SoruYarismasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\basakaleyna\Desktop\tasarım desenleri görsel programlama dersleri uygulamaları\SoruYarismasi\SoruYarismasi\obj\Debug\SoruYarismasi.Form1.resources
+C:\Users\basakaleyna\Desktop\tasarım desenleri görsel programlama dersleri uygulamaları\SoruYarismasi\SoruYarismasi\obj\Debug\SoruYarismasi.Properties.Resources.resources
+C:\Users\basakaleyna\Desktop\tasarım desenleri görsel programlama dersleri uygulamaları\SoruYarismasi\SoruYarismasi\obj\Debug\SoruYarismasi.csproj.GenerateResource.cache
+C:\Users\basakaleyna\Desktop\tasarım desenleri görsel programlama dersleri uygulamaları\SoruYarismasi\SoruYarismasi\obj\Debug\SoruYarismasi.csproj.CoreCompileInputs.cache
+C:\Users\basakaleyna\Desktop\tasarım desenleri görsel programlama dersleri uygulamaları\SoruYarismasi\SoruYarismasi\obj\Debug\SoruYarismasi.exe
+C:\Users\basakaleyna\Desktop\tasarım desenleri görsel programlama dersleri uygulamaları\SoruYarismasi\SoruYarismasi\obj\Debug\SoruYarismasi.pdb
